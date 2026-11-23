@@ -1,0 +1,6 @@
+out/
+livros.csv
+*.class
+.idea/
+.vscode/
+*.iml
