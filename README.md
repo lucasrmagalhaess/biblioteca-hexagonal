@@ -1,6 +1,6 @@
 # Biblioteca: Arquitetura Hexagonal (Portas e Adaptadores)
 
-Exemplo em **Java puro** (sem frameworks) para a atividade semestral de **Engenharia e Arquitetura de Software (Senac)**.
+Exemplo em **Java puro** (sem frameworks) para a atividade semestral de **Engenharia e Arquitetura de Software - 4 Semestre (Senac)**.
 O sistema controla o acervo de uma biblioteca: cadastro de livros, consultas, empréstimos e devoluções com multa por atraso.
 
 ## Integrantes
